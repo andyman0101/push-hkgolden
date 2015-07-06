@@ -1,4 +1,3 @@
-
 from splinter import Browser
 import sys, getopt, re
 from datetime import datetime
